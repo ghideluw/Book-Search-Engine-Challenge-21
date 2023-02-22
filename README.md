@@ -35,7 +35,7 @@ To install the application clone the project directory and run "npm install" in 
 After installation, the application requires that you run "npm start development" in the terminal while MongoDB is running to connect the server and API 
 with the database. 
 
-##SCREENSHOT ![image](https://user-images.githubusercontent.com/111549689/219942374-87bc4229-456c-4425-9d8c-68a1c47b6140.png)
+## SCREENSHOT ![image](https://user-images.githubusercontent.com/111549689/219942374-87bc4229-456c-4425-9d8c-68a1c47b6140.png)
 
 ## License
 
