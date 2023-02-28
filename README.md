@@ -1,7 +1,7 @@
 # Book-Search-Engine-Challenge-21
 
 ## Description
-The goal of this project was to take a Google Books API search engine that use a Restful API, and refractor it to be a GRraphQL API that uses an Apollo Server. 
+The goal of this project was to take a Google Books API search engine that use a Restful API, and refractor it to be a GraphQL API that uses an Apollo Server. 
 This application follows the MERN model(MongoDb, Express.js, REACT, and node.js). The user will be able to search and save book queries to the database and 
 retrieve that data. The user will be able to sign up and store their account credentials, so they will be able to login and view their searches as well as modify 
 them later.
@@ -35,7 +35,7 @@ To install the application clone the project directory and run "npm install" in 
 After installation, the application requires that you run "npm start development" in the terminal while MongoDB is running to connect the server and API 
 with the database. 
 
-##SCREENSHOT ![image](https://user-images.githubusercontent.com/111549689/219942374-87bc4229-456c-4425-9d8c-68a1c47b6140.png)
+## SCREENSHOT ![image](https://user-images.githubusercontent.com/111549689/219942374-87bc4229-456c-4425-9d8c-68a1c47b6140.png)
 
 ## License
 
